@@ -1,0 +1,46 @@
+.main{
+background-color:navy;
+font-family:Helvetica;
+color:black;
+opacity:1;
+cursor:default;
+display:inline;
+}
+
+#fixture{
+   text-align:center;
+   margin:90px;
+    list-style-type:none; 
+ color:black;
+ opacity:1;
+ }
+
+#a{
+color:navy;
+background-color:white;
+opacity:1;
+padding:2px;
+border:2px;
+border-style:solid;
+}
+
+#h{
+    color:white;
+    background-color:navy;
+    opacity:1;
+    padding:2px;
+    border:2px;
+    border-style:groove;
+ 
+ 
+}
+#badge:active{
+ top:2px;   
+ float:
+}
+#key{
+ float:right;
+}
+
+#shirt{
+}
